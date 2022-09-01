@@ -16,7 +16,7 @@
 
 * Vào CH Play Hoặc Appstore Tải Google Cloud Để Chạy Tool Nhé!
 
-* ```git clone https://github.com/Vihungdepzai/LoveTool.git```
+* ```git clone https://github.com/ngkhanhh/LoveTool-leak```
 * ```cd LoveTool```
 * ```sh setup.sh```
 * ```py abc.py```
@@ -26,20 +26,8 @@
 * ```cd LoveTool```
 * ```python abc.py```
 
-# Contact Me 
-* Telegram: @hungtricker
-* Zalo: 0359822840
-* Facebook: @Users.ViDucHung.ProFile
+ 
 
-# Donate 
-* Momo: 0359822840 <br>
-CTK: Vi Đức Hùng 
-* Tsr: 0359822840 <br>
-CTK: Vi Hùng
-* MBBank: 88888888190506 <br>
-CTK: Long Thi Dong 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Vihungdepzai/LoveToolhit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
